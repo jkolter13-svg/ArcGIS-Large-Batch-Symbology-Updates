@@ -4,12 +4,6 @@ A set of standalone ArcPy scripts for applying consistent, imagery-safe
 symbology to lines, polygons, and points in an ArcGIS Pro map without
 manually re-styling every layer by hand.
 
-## Author
-
-**Jonathan Kolterman**
-Email: jkolterman13@gmail.com
-LinkedIn: https://www.linkedin.com/in/jonathan-kolterman-1808342b8
-
 ## Overview
 
 These scripts loop through the layers in the **active map** of the
