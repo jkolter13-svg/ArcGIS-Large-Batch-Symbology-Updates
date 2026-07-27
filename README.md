@@ -82,6 +82,4 @@ comments above each group indicate what kind of layer (water, storm sewer,
 zoning boundary, etc.) each placeholder was originally styled for.
 
 ## License
-
-No license specified. Contact the author above before reuse in a
-commercial or redistributed context.
+GNU GENERAL PUBLIC LICENSE
