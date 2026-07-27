@@ -1,4 +1,4 @@
-# ArcGIS Pro Symbology Toolkit
+# ArcGIS Pro Large Batch Symbology Toolkit
 
 A set of standalone ArcPy scripts for applying consistent, imagery-safe
 symbology to lines, polygons, and points in an ArcGIS Pro map without
